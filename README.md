@@ -37,13 +37,13 @@ Set one of these programs as the integrated terminal in VSCODE
 
 ### Development Enviornment and Interpreter:
 - Visual Studio Code + Extenstions: "Pylance v2022.10.30" and "Python v2022.16.1"
-- Python 3.7.3: https://www.python.org/downloads/release/python-373/
+- Python 3.11.2: https://www.python.org/downloads/release/python-373/
 
 
 ## **4. Initializing The Virtual Environment**
 
 ### Procedure:
-In Visual Studio Code, using a system level install of Python 3.7.3.
+In Visual Studio Code, using a system level install of Python 3.11.2.
 
 1) Give executable rights to the script "./init-venv.sh".
 2) In MinGW or Zsh run:
